@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reproducción</title>
+	<trackList>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130577</location>
+			<title>AR | America Tv 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130578</location>
+			<title>AR | America Tv 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130579</location>
+			<title>AR | A24 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130580</location>
+			<title>AR | A 24 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130581</location>
+			<title>AR | C5n 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130582</location>
+			<title>AR | C5n 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130584</location>
+			<title>AR | Canal 26 </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130585</location>
+			<title>AR | Cronica</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130586</location>
+			<title>Ar | Ln+</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130587</location>
+			<title>AR | LN+ 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130633</location>
+			<title>AR | Tv Publica 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130634</location>
+			<title>AR | Tv Publica. 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130635</location>
+			<title>AR | Tn 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130636</location>
+			<title>AR | Tn 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130637</location>
+			<title>AR | El nueve 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130638</location>
+			<title>AR | El nueve 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130639</location>
+			<title>AR | El trece 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130640</location>
+			<title>AR | El Trece 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130641</location>
+			<title>AR | Trece m</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130642</location>
+			<title>AR | Telefe 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130643</location>
+			<title>AR | Telefe 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130644</location>
+			<title>AR | Telefe 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130645</location>
+			<title>AR | T ñ t Sp0rts 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130646</location>
+			<title>AR | T ñ t Sp0rts 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130647</location>
+			<title>AR | T ñ t Sports 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130648</location>
+			<title>AR | E$pÑ Premium OPC. 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130649</location>
+			<title>AR | E$pñ Premium OPC. 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130650</location>
+			<title>AR | E$pñ  PREMIUM  OPC. 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130651</location>
+			<title>AR | 7yc Sp0rts Ar</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130652</location>
+			<title>AR | 7yc Sp0rts 4K</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130653</location>
+			<title>Ar | E$pñ  1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130654</location>
+			<title>AR | E$pñ  2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130656</location>
+			<title>AR | E$pñ  3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130657</location>
+			<title>Ar |E$pñ  4    4K</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130658</location>
+			<title>AR | F0X SP0R7S 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130660</location>
+			<title>AR |  F0X SP0RTS 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130661</location>
+			<title>Ar | F0X SP0RTS 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130662</location>
+			<title>AR | D3tv 1 Ar</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130663</location>
+			<title>AR | D3tv 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130664</location>
+			<title>Ar | Deport tv</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130665</location>
+			<title>AR | Net Tv</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130666</location>
+			<title>AR | Encuentro</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130667</location>
+			<title>AR | Paka Paka.</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130668</location>
+			<title>AR | El Garage Tv.</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130669</location>
+			<title>Ar | Amc</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130670</location>
+			<title>Ar | Cine Canal</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130671</location>
+			<title>Ar | Sony</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130672</location>
+			<title>Ar | Space</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130673</location>
+			<title>Ar | Universal Channel</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130674</location>
+			<title>Ar | Warnel Channel</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130675</location>
+			<title>Ar | Fx</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130676</location>
+			<title>Ar | DHE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130677</location>
+			<title>Ar | Tbs</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130678</location>
+			<title>Ar | Tnt</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130679</location>
+			<title>Ar | Tnt Series</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130680</location>
+			<title>Ar | Comedy Central</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130681</location>
+			<title>Ar | Paramount Channel</title>
+			<creator>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&quot; group-title=&quot;⚪Argentina &quot;</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130682</location>
+			<title>Ar | E! Entretenimineto</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130683</location>
+			<title>Ar | Syfy</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130684</location>
+			<title>Ar | El Gourmet</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130685</location>
+			<title>Ar | Glitz</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130686</location>
+			<title>Ar | Axn</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130687</location>
+			<title>Ar | LifeTime</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130688</location>
+			<title>Ar | A&amp;E</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130689</location>
+			<title>Ar | Fox Life</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130690</location>
+			<title>Ar | Cinemax</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130691</location>
+			<title>Ar | Universal Reality</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130692</location>
+			<title>Ar | Universal Premier</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130693</location>
+			<title>Ar | Universal Comedy</title>
+			<creator>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&quot; group-title=&quot;⚪Argentina &quot;</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130694</location>
+			<title>Ar | Uniiversal Cinema</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130695</location>
+			<title>Ar | Star channel</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130696</location>
+			<title>Ar | Hbo Family</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130697</location>
+			<title>Ar | Hbo Extreme</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130698</location>
+			<title>Ar | Hbo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130699</location>
+			<title>Ar | Hbo 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130700</location>
+			<title>Ar | Hbo Plus</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130701</location>
+			<title>Ar | Hbo Signature</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130702</location>
+			<title>Ar | Histori 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130703</location>
+			<title>Ar | History</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130704</location>
+			<title>Ar | Discovery Id</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130705</location>
+			<title>Ar | Discovery Home and Health</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130706</location>
+			<title>Ar| Discovery Science</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130707</location>
+			<title>Ar | Discovery Theater</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/130708</location>
+			<title>Ar | Discovery World</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/131042</location>
+			<title>Ar | Discovery Channel.</title>
+			<creator>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&quot; group-title=&quot;⚪Argentina &quot;</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/131043</location>
+			<title>Ar | Discovery Turbo.</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/131044</location>
+			<title>Ar | Nat Geo Channel.</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/131047</location>
+			<title>Ar |  ANIMAL PLANET</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://exitotv.uno:8080/Oswald021222/2ZAz9nfKTBNT/131048</location>
+			<title>Ar | NAT GEO WILD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+	</extension>
+</playlist>
